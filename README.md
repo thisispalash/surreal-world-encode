@@ -3,8 +3,14 @@
 
 Project submission for [Story Protocol x Encode Club Buildation](https://surrealworld.encode.club/)
 
-## Project One
-> _ip-fy your online presence_
+## Soul Port
+> [web](https://soulport.art) |
+> [github](https://github.com/thisispalash/soulport)
 
-## Project Two
-> [dApp Ideas](https://dappideas.art)
+_License your web2 identity, piece by piece_
+
+## dApp Ideas
+> [web](https://dappideas.art) | 
+> [github](https://github.com/thisispalash/dappideas-monorepo)
+
+_A network for seeking answers, personal or global_
